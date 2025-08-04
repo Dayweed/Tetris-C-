@@ -1,4 +1,4 @@
-# Tetris-C-
+# Tetris-CPP
 
 A simple block stacking game following Javier López's C++ tutorial.
 
